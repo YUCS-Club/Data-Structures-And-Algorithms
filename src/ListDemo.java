@@ -1,5 +1,7 @@
 package src;
 
+import src.datastructures.IntegerLinkedList;
+
 public class ListDemo {
     public static void main(String[] args){
         IntegerLinkedList list = new IntegerLinkedList();

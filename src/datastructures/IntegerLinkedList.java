@@ -1,4 +1,4 @@
-package src;
+package src.datastructures;
 
 public class IntegerLinkedList {
     //Properties
